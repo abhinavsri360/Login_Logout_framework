@@ -54,9 +54,7 @@ export default {
                 this.$root.auth = data;
 
                 this.$router.push('home');
-            }).catch(response => {
-                console.log(response);
-            });
+            })
         }
     }
 };
