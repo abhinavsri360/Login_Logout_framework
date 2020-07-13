@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/abhinavsri360/Login_Logout_framework.svg)](http://hits.dwyl.com/abhinavsri360/Login_Logout_framework)
 # Login_Logout
 
 ## Project setup
